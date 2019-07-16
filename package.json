@@ -1,0 +1,9 @@
+{
+    "version": "1.0.0",
+
+    "scripts": {
+        "start": "nodemon node1.js"
+    }
+
+
+}
